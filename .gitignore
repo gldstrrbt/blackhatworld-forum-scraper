@@ -1,0 +1,9 @@
+*.csv
+url_list.txt
+chromedriver.exe
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
